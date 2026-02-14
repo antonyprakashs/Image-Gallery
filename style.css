@@ -14,13 +14,9 @@ body {
 
 hr {
     border: 0;
-    /* Removes default shading */
     height: 1.5px;
-    /* Sets the thickness */
     background-color: #333;
-    /* Match the dark color of the text */
     width: 80%;
-    /* Controls how long the line is */
     margin: 40px auto;
 }
 
@@ -61,3 +57,4 @@ hr {
     transition: ease-in-out 0.3s;
 
 }
+
